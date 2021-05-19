@@ -1,0 +1,15 @@
+current directory: /Users/tomokikaratani/Desktop/rails/qanda/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/tomokikaratani/.rbenv/versions/2.7.2/bin/ruby -I /Users/tomokikaratani/.rbenv/versions/2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210520-61249-jsyrx7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomokikaratani/Desktop/rails/qanda/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/tomokikaratani/Desktop/rails/qanda/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tomokikaratani/Desktop/rails/qanda/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210520-61249-1rv5vw3/bootsnap
